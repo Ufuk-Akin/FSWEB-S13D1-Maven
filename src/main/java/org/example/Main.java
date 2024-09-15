@@ -1,6 +1,7 @@
 package org.example;
 import java.util.Scanner;
 
+// SP13-GS1
 
 public class Main {
     public static void main(String[] args) {
